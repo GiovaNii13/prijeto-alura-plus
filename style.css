@@ -176,3 +176,8 @@ body {
     color: var(--cinza-secundario);
     margin: 2em;
 }
+
+
+.lista--link a:hover{
+    color: var(--botao-azul);
+}
